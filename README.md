@@ -1,4 +1,4 @@
-https://github.com/SplaatSites/rayman-3/blob/main/r3dc.png?raw=true
+![Rayman 3: Hoodlum Havoc Decompilation](https://github.com/SplaatSites/rayman-3/blob/main/r3dc.png?raw=true)
 [![Build Status]][actions] [![Code Progress]][progress] [![Data Progress]][progress] [![Discord Badge]][discord]
 =============
 
