@@ -1,7 +1,8 @@
-Rayman 3  
+[rayman]
 [![Build Status]][actions] [![Code Progress]][progress] [![Data Progress]][progress] [![Discord Badge]][discord]
 =============
 
+[rayman]: https://github.com/SplaatSites/rayman-3/r3dc.png
 <!--
 Replace with your repository's URL.
 -->
